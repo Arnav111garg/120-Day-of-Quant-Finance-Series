@@ -66,6 +66,7 @@ Day 27 (Finance): Options Use Cases in Real Markets, Risk Metrics(Sharpe ratio, 
 Day 28 (Project): Visualizing and Analyzing Options Payoffs and Strategies using Python
 
 ⭐MONTH 2:STOCHASTIC PROCESSES, DERIVATIVS & TIME SERIES
+
 ✅WEEK 6: Stochastic Processes & Dynamic Asset Modeling
 Day 36 (Math): Random Walks & Discrete-Time Price Models
 
