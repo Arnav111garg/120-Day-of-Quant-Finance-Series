@@ -128,6 +128,7 @@ Day 55 (Finance): Volatility in Option Pricing
 Day 56 (Project): Build a Volatility Forecasting and Risk Dashboard
 
 ⭐MONTH 3:Machine Learning AND DEEP LEARNING for Finance
+
 ✅Week 9: SUPERVISED MACHINE LEARNING
 Day 57 (Math): Loss functions and optimization
 
@@ -189,9 +190,10 @@ Day 83 (Finance): Alternative data integration
 Day 84 (Project): Deep learning alpha generator
 
 ✅Day 85: Month 3 Review + Research Paper
-"Machine Learning for [Specific Trading Problem]"
+"Machine Learning for 'Machine Learning for Regime-Aware Position Sizing' "
 
 ⭐MONTH 4:STOCHASTIC CALCULUS & TIME SERIES MODELLING
+
 ✅Week 13: STOCHASTIC PROCESSES & BROWNIAN MOTION
 Day 86 (Math): Introduction to Stochastic Processes
 
@@ -253,6 +255,7 @@ Day 112 (Finance): Use Stochastic Volatility(Heston) vs Constant Volatility(BSM)
 Day 113 (Project): Hybrid Volatility Forecasting for Option Pricing: GARCH vs Heston
 
 ⭐MONTH 5: Advanced Quant Systems
+
 ✅WEEK 17: Volatility & Risk
 Day 114 (Math): Volatility Surface and Implied Volatility Smile
 
