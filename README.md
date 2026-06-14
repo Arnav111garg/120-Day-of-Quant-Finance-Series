@@ -6,6 +6,7 @@
 
 ✅Week 1: Probability Theory
 Day 1 (Math): Axioms of Probability, Conditional probability, Bayes theorem, independence
+
 Day 2 (Math): Discrete and continuous Distribution, Expectation and variance, Skewness and Kurtosis
 Day 3 (Code): Implementation of distributions, Visualizing PDFs, CDFs, Simulate Coin flip, dice rolls, Poisson events
 Day 4 (Code): Conditional Probability & Bayes Theorem in Python, Monte Carlo
